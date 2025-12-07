@@ -1,0 +1,8 @@
+{
+  "name": "AI LifeLens",
+  "description": "An intelligent daily organizer that transforms chaos into clarity using Gemini 2.5 Flash multimodality to analyze desks, documents, and notes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
